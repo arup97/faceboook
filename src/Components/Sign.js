@@ -36,7 +36,7 @@ const Sign = () => {
             </div>
             <div className='rightbox'>
                 <div className='cadre_1'>
-                    <img className='Titre' src="logo512.png" alt="Instagram" />
+                    <img className='Titre' src="./logo510.png" alt="Instagram" />
                     <div className='formulaire'>
                         <Input id="ID" label='Num. téléphone, nom utilisateur ou e-mail' state={ID} setState={setID} />
                         <Input type="password" id="MDP" label='Mot de passe' state={MDP} setState={setMDP} />
